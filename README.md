@@ -2,7 +2,7 @@
 Fork of The Beardy Penguin's [To Boldly Go 2](https://www.curseforge.com/minecraft/modpacks/to-boldly-go-2) which intends to allow people to keep their old worlds from that pack, while also providing bug fixes and adding some of the planned features.
 The name has been inspired by chase_mk's [Boldly Going](https://www.curseforge.com/minecraft/modpacks/boldly-going).
 
-Short- to mid-term planned features & bug fixes
+## Short- to mid-term planned features & bug fixes
 - [ ] Add custom structures with Recurrent Complex
 - [ ] Change JSG plate textures to align with thermal (if using programmer art)
 - [ ] Create basaltic ore variants for planets
@@ -19,7 +19,7 @@ Short- to mid-term planned features & bug fixes
 - [ ] Ban water from airless dimensions with ultrawarm tag
 - [ ] Remove Atum's pyramid structure from generation as it contains hard coded enchanted books
 - [ ] Look into a better/upgradeable/tiered quarries mod
-Long-term planned features
+## Long-term planned features
 - [ ] Configure remaining planets
   - [ ] Add underwater biomes to Europa
   - [ ] Configure Venus to be more accurate to real-life
