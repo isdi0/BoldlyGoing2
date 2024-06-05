@@ -10,6 +10,7 @@ The name has been inspired by chase_mk's [Boldly Going](https://www.curseforge.c
 - [ ] Make goblins, traders, and miners rarer
 - [x] Remove Spiders 2.0 (causes bugs)
 - [x] Add recipe to pulverize titanium ingots into titanium dust
+- [ ] Fix primitive mobs entity tags
 - [ ] Fix marooned spawning in wrong dimensions
 - [ ] Differentiate light and heavy crude oil
 - [ ] Rename impure naquadah ore
