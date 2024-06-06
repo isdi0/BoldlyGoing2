@@ -1,0 +1,52 @@
+{
+  "0": {
+    "name": "overworld",
+    "distance": 0,
+    "groups": [
+      "netherOv"
+    ],
+    "milkyWayOrigins": {}
+  },
+  "-1": {
+    "name": "the_nether",
+    "distance": 5,
+    "groups": [
+      "netherOv"
+    ],
+    "milkyWayOrigins": {
+      "NORMAL": 2
+    }
+  },
+  "17": {
+    "name": "atum",
+    "distance": 0,
+    "groups": [],
+    "milkyWayOrigins": {}
+  },
+  "1": {
+    "name": "the_end",
+    "distance": 10,
+    "groups": [],
+    "milkyWayOrigins": {
+      "NORMAL": 1
+    }
+  },
+  "2": {
+    "name": "planet",
+    "distance": 0,
+    "groups": [],
+    "milkyWayOrigins": {}
+  },
+  "3": {
+    "name": "space",
+    "distance": 0,
+    "groups": [],
+    "milkyWayOrigins": {}
+  },
+  "-23": {
+    "name": "midnight",
+    "distance": 0,
+    "groups": [],
+    "milkyWayOrigins": {}
+  }
+}
