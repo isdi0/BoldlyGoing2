@@ -1,0 +1,72 @@
+{
+  "overworld": {
+    "energyToOpen": 0,
+    "keepAlive": 0,
+    "groups": [
+      "netherOv"
+    ],
+    "milkyWayOrigins": {
+      "NORMAL": 5
+    }
+  },
+  "space": {
+    "energyToOpen": 3686400,
+    "keepAlive": 1600,
+    "groups": [],
+    "milkyWayOrigins": {
+      "NORMAL": 22
+    }
+  },
+  "midnight": {
+    "energyToOpen": 3686400,
+    "keepAlive": 1600,
+    "groups": [],
+    "milkyWayOrigins": {
+      "NORMAL": 3
+    }
+  },
+  "planet": {
+    "energyToOpen": 3686400,
+    "keepAlive": 1600,
+    "groups": [
+      "netherOv"
+    ],
+    "milkyWayOrigins": {
+      "NORMAL": 0
+    }
+  },
+  "the_end": {
+    "energyToOpen": 3686400,
+    "keepAlive": 1600,
+    "groups": [
+      "netherOv"
+    ],
+    "milkyWayOrigins": {
+      "NORMAL": 1
+    }
+  },
+  "the_nether": {
+    "energyToOpen": 3686400,
+    "keepAlive": 1600,
+    "groups": [
+      "netherOv"
+    ],
+    "milkyWayOrigins": {
+      "NORMAL": 2
+    }
+  },
+  "wastelandcomplete": {
+    "energyToOpen": 0,
+    "keepAlive": 0,
+    "groups": [],
+    "milkyWayOrigins": {}
+  },
+  "atum": {
+    "energyToOpen": 5529600,
+    "keepAlive": 2400,
+    "groups": [],
+    "milkyWayOrigins": {
+      "NORMAL": 4
+    }
+  }
+}
