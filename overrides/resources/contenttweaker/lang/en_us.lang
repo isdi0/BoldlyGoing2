@@ -1,0 +1,8 @@
+fluid.anorthite=Molten Anorthite
+fluid.rocketFuel=Hydrogen Peroxide
+entity.Villager.engineer=Engineer
+entity.Villager.merchant=Merchant
+tile.markerBlock.tip=Defines the area in which the Quarry operates.
+tile.quarryBlock.tip=Automatically mines an area up to 64x64 blocks.
+tile.pumpBlock.tip=Pumps in fluid from the surrounding area.
+tile.floodGateBlock.tip=Pumps out fluid to fill the surrounding area.
