@@ -4,7 +4,7 @@ The name has been inspired by chase_mk's [Boldly Going](https://www.curseforge.c
 
 ## Short- to mid-term planned features & bug fixes
 - [ ] Add custom structures with Recurrent Complex
-- [ ] Change JSG plate textures to align with thermal (if using programmer art)
+- [ ] Change JSG plate textures to align with thermal
 - [ ] Create basaltic ore variants for planets
 - [ ] Disable evoker spawns and remove the totem of undying
 - [ ] Make goblins, traders, and miners rarer
@@ -16,7 +16,7 @@ The name has been inspired by chase_mk's [Boldly Going](https://www.curseforge.c
 - [ ] Rename impure naquadah ore
 - [ ] Fix Martian moon skyboxes to make Mars bigger and be accurate to real orbits
 - [ ] Add [Davinci's vessels](https://www.curseforge.com/minecraft/mc-mods/davincis-vessels)
-- [ ] Add and configure [better diving](https://www.curseforge.com/minecraft/mc-mods/better-diving)
+- [ ] Add [Aqua Acrobatics](https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics)
 - [ ] Ban water from airless dimensions with ultrawarm tag
 - [ ] Remove Atum's pyramid structure from generation as it contains hard coded enchanted books
 - [ ] Look into a better/upgradeable/tiered quarries mod
