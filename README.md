@@ -15,7 +15,7 @@ The name has been inspired by chase_mk's [Boldly Going](https://www.curseforge.c
 - [ ] Differentiate light and heavy crude oil
 - [ ] Rename impure naquadah ore
 - [ ] Fix Martian moon skyboxes to make Mars bigger and be accurate to real orbits
-- [ ] Add [Davinci's vessels](https://www.curseforge.com/minecraft/mc-mods/davincis-vessels)
+- [x] Add [Davinci's vessels](https://www.curseforge.com/minecraft/mc-mods/davincis-vessels)
 - [x] Add [Aqua Acrobatics](https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics)
 - [ ] Ban water from airless dimensions with ultrawarm tag
 - [ ] Remove Atum's pyramid structure from generation as it contains hard coded enchanted books
